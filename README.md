@@ -44,7 +44,7 @@ Un proyecto completo para interactuar con la **Artificial Analysis API**, que pr
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/<TU_USUARIO>/artificial_analysis.git
+git clone https://github.com/falopp/artificial_analysis.git
 cd artificial_analysis
 
 # Instala dependencias
