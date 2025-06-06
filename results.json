@@ -1,0 +1,119 @@
+[
+  {
+    "name": "models:length=short,pq=2",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=short&parallel_queries=2",
+    "status": 200,
+    "elapsed": 0.3396735191345215,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=medium,pq=2",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=medium&parallel_queries=2",
+    "status": 200,
+    "elapsed": 0.3618025779724121,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=short,pq=4",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=short&parallel_queries=4",
+    "status": 200,
+    "elapsed": 0.5194840431213379,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=medium,pq=1",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=medium&parallel_queries=1",
+    "status": 200,
+    "elapsed": 0.547499418258667,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=short,pq=1",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=short&parallel_queries=1",
+    "status": 200,
+    "elapsed": 0.5615637302398682,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=medium,pq=4",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=medium&parallel_queries=4",
+    "status": 200,
+    "elapsed": 0.5168545246124268,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=long,pq=1",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=long&parallel_queries=1",
+    "status": 200,
+    "elapsed": 0.5137608051300049,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=long,pq=4",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=long&parallel_queries=4",
+    "status": 200,
+    "elapsed": 0.4701220989227295,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models:length=long,pq=2",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models?prompt_length=long&parallel_queries=2",
+    "status": 200,
+    "elapsed": 0.5068833827972412,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  },
+  {
+    "name": "models`",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models`",
+    "status": 404,
+    "elapsed": 0.11803817749023438,
+    "json_keys": null
+  },
+  {
+    "name": "models",
+    "url": "https://artificialanalysis.ai/api/v2/data/llms/models",
+    "status": 200,
+    "elapsed": 0.47034668922424316,
+    "json_keys": [
+      "status",
+      "prompt_options",
+      "data"
+    ]
+  }
+]
